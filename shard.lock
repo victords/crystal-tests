@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  gosu:
+    git: https://github.com/gosu/gosu.cr.git
+    version: 0.2.0+git.commit.62a5fe2d3b3fe9ed3520b919c043be2de33895e6
+
